@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("[KJ re-added] im sleep rn new ui finish tmrw", "GrapeTheme")
+local Window = Library.CreateLib("[KJ re-added] new ui finished releasing soon", "GrapeTheme")
 local Tab = Window:NewTab("Moves")
 local Section = Tab:NewSection("KJ")
 Section:NewButton("Ravage Victim", "KJ first move Victim", function()
